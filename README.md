@@ -11,6 +11,8 @@ Analyze and compare the performance of anti-cancer drug of interest, Capomulin, 
 
 ## Analysis
 
+Analysis includes each of the following in a [Jupyter Notebook](Pymaceuticals/pymaceuticals_starter.ipynb) with viewable Data Frames:
+
 ### Data Wrangling
 
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID. Use the cleaned data for the remaining steps.
